@@ -57,6 +57,29 @@ ul {
     padding-left: 17px;
 }
 
+.table-style {
+    text-align: left;
+    width: 100%;
+}
+
+thead tr {
+    background-color:cornflowerblue;
+    color: white;
+}
+
+.thin-column{
+    width:25%;  
+}
+
+.large-column{
+    width: 50%;
+}
+
+.odd-row {
+    background-color: rgb(126, 189, 245);
+}
+
+
 /* Footer */
 
 .footer-style {
