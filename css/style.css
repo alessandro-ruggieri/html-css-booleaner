@@ -1,0 +1,71 @@
+/* Header */
+
+.header-style {
+    background-color: cadetblue;
+    background-image: url(../img/pattern.png);
+    /* background-size:40%; */
+    padding-bottom: 15px;
+    padding-top: 20px;
+    text-align:center;
+    /* position:absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%; */
+}
+
+.logo {
+    height:80px;
+    padding: 8px 5px 0px 5px;
+    background-color: rgba(56, 115, 117, 0.56);
+}
+
+/* Main */
+
+.main-style {
+    padding:15px;
+}
+
+.main-title {
+    font-size:28px;
+    margin-top:10px;
+}
+
+.main-style a {
+    text-decoration: none;
+    color:blue
+}
+
+.author {
+    font-family: cursive;
+    color: rgb(97, 95, 95);
+}
+
+.author time {
+    font-size: 14px;
+}
+
+figure {
+    margin: 0;
+}
+
+figcaption {
+    font-style: italic;
+    font-size: small;
+}
+
+ul {
+    padding-left: 17px;
+}
+
+/* Footer */
+
+.footer-style {
+    text-align:center;
+    color:white;
+    background-color: rgb(6, 6, 111);
+    padding: 20px;
+    /* position:absolute;
+    bottom:0px;
+    left:0px;
+    width:100%; */
+}
