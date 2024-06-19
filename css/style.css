@@ -23,11 +23,15 @@
 
 .main-style {
     padding:15px;
+    /* margin: 10px 100px 10px 100px; */
+    margin: 10px 7% 10px 7%;
 }
 
 .main-title {
     font-size:28px;
     margin-top:10px;
+    margin-bottom:0px;
+    line-height: 28px;
 }
 
 .main-style a {
@@ -38,6 +42,8 @@
 .author {
     font-family: cursive;
     color: rgb(97, 95, 95);
+    margin-top: 3px;
+    line-height: 18px;
 }
 
 .author time {
@@ -87,6 +93,7 @@ thead tr {
     color:white;
     background-color: rgb(6, 6, 111);
     padding: 20px;
+    margin-top: 20px;
     /* position:absolute;
     bottom:0px;
     left:0px;
